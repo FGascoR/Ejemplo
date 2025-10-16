@@ -1,1 +1,1 @@
-## Ejemplo de navbar responsivo
+## Navbar responsivo
